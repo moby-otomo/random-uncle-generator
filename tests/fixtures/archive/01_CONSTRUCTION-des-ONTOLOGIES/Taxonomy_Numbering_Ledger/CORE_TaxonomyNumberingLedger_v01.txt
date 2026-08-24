@@ -1,0 +1,8 @@
+# Taxonomy Numbering Ledger test fixture
+
+This immutable fixture is intentionally minimal. It is not canonical creative data.
+
+| Number | Specimen / Working Title | Register | Status |
+|---|---|---|---|
+| 11188 | Fixture Uncle B | Test | Reserved |
+| 10404 | Fixture Uncle A | Test | Reserved |
